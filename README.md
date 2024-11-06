@@ -1,3 +1,6 @@
+# Disclaimer
+None of the generative AI has been used.
+
 # 프로젝트 개발 환경
 CPU / RAM : Apple M1 Max 3.2GHz, 32 GB RAM
 
