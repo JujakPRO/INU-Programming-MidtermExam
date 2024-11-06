@@ -7,6 +7,12 @@ IDE : Eclipse 2024-06 (AArch64)
 ![Problem1](https://github.com/user-attachments/assets/05a37768-b9fb-47c6-a05b-ae60f412cdc7)
 Just A good Planet Information System (JAPIS)
 
+# 사용된 제어 구조
+for, switch-case, while
+
+![IMG_3125](https://github.com/user-attachments/assets/1177f075-5c40-4609-bc7c-8a1ca3412163)
+![IMG_3129](https://github.com/user-attachments/assets/35a6f934-8de4-49c0-8194-d149f72a4530)
+
 # 출력 결과
 <img width="255" alt="스크린샷 2024-11-06 오후 7 34 13" src="https://github.com/user-attachments/assets/91257ea0-e46d-447d-88d5-24ba0850ad40">
 
