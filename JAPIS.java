@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class midtermClass {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    	Scanner scanner = new Scanner(System.in);
 
         String planetData[][] = new String[10][5]; // 이름, 반지름, 자전 주기, 공전 주기, 태양으로부터의 거리 데이터를 저장하는 2차원 배열
         int planetCount[] = new int[1]; // 입력된 행성의 개수를 저장하는 1차원 배열
@@ -81,6 +81,9 @@ public class midtermClass {
 
         scanner.close();
     }
+    
+    // end of line
+    
 
     // 행성의 데이터를 일렬로 받아 2차원 배열에 저장하는 inputPlanetData 메서드
     
@@ -130,7 +133,7 @@ public class midtermClass {
         System.out.print(print);
     }
 
-	// end of line
+    // end of line
 
 
 	// 태양과 가장 먼 행성의 이름을 출력하는 메서드
@@ -164,7 +167,7 @@ public class midtermClass {
 		
 		double avg = sum / planetCount;
 		
-		System.out.print(avg);
+		System.out.println(avg + " km");
 	}
 	
 	// end of line
